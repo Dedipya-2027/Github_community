@@ -36,6 +36,14 @@ nav a:hover {
     color: #ffc107;
 }
 
+section { padding: 20px; } 
+.github-image {
+    width: 100%;
+    max-width: 600px;
+    display:
+        block;
+    margin: 20px auto;
+}
 header {
     text-align: center;
     padding: 4rem 0;
